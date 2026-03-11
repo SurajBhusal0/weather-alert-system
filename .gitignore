@@ -1,0 +1,19 @@
+# Build output
+**/target/
+
+# IDE
+**/.idea/
+*.iml
+
+# Maven wrapper jar
+.mvn/wrapper/maven-wrapper.jar
+
+# OS
+.DS_Store
+
+# Generated classpath
+.classpath.txt
+
+# H2 database files
+*.db
+*.trace.db
